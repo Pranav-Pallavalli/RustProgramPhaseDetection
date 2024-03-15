@@ -1,0 +1,52 @@
+0x5555555552f4: => 0x5555555552f4 <_main+75>:	jne    0x555555555305 <_main+92>
+
+0x5555555553b4: => 0x5555555553b4 <list_directory+168>:	jne    0x55555555536f <list_directory+99>
+
+0x5555555553b4: => 0x5555555553b4 <list_directory+168>:	jne    0x55555555536f <list_directory+99>
+
+0x5555555552f4: => 0x5555555552f4 <_main+75>:	jne    0x555555555305 <_main+92>
+
+0x5555555552f4: => 0x5555555552f4 <_main+75>:	jne    0x555555555305 <_main+92>
+
+0x5555555553b4: => 0x5555555553b4 <list_directory+168>:	jne    0x55555555536f <list_directory+99>
+
+0x5555555553b4: => 0x5555555553b4 <list_directory+168>:	jne    0x55555555536f <list_directory+99>
+
+0x7ffff7d19bea: => 0x7ffff7d19bea <__GI___open64_nocancel+42>:	jne    0x7ffff7d19c30 <__GI___open64_nocancel+112>
+
+0x7ffff7d19c22: => 0x7ffff7d19c22 <__GI___open64_nocancel+98>:	jne    0x7ffff7d19c6b <__GI___open64_nocancel+171>
+
+0x7ffff7ce62df: => 0x7ffff7ce62df <__opendir+95>:	jne    0x7ffff7ce6368 <__opendir+232>
+
+0x7ffff7c46c7e: => 0x7ffff7c46c7e <__GI___getrandom+14>:	jne    0x7ffff7c46c90 <__GI___getrandom+32>
+
+0x7ffff7ca1a40: => 0x7ffff7ca1a40 <ptmalloc_init+144>:	jne    0x7ffff7ca1a49 <ptmalloc_init+153>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x7ffff7ca1a83: => 0x7ffff7ca1a83 <ptmalloc_init+211>:	jne    0x7ffff7ca1a70 <ptmalloc_init+192>
+
+0x5555555557ba: => 0x5555555557ba <main+31>:	call   0x5555555552a9 <_main>
+
+0x5555555552f4: => 0x5555555552f4 <_main+75>:	jne    0x555555555305 <_main+92>
+
+0x555555555300: => 0x555555555300 <_main+87>:	call   0x55555555530c <list_directory>
+
+0x5555555553b4: => 0x5555555553b4 <list_directory+168>:	jne    0x55555555536f <list_directory+99>
+
+0x5555555553b4: => 0x5555555553b4 <list_directory+168>:	jne    0x55555555536f <list_directory+99>
+
+0x555555555418: => 0x555555555418 <list_directory+268>:	call   0x555555555120 <opendir@plt>
+
+0x7ffff7ce62b0: => 0x7ffff7ce62b0 <__opendir+48>:	call   0x7ffff7d19bc0 <__GI___open64_nocancel>
+
